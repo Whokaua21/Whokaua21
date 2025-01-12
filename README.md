@@ -16,5 +16,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whokaua21&show_icons=true&theme=dracula)
 --
 
-## Framework:
+## Frameworks:
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]()

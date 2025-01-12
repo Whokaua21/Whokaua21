@@ -1,8 +1,8 @@
 ## Hello ,My name is Kauã Eduardo 😁
 
-### I'm Developer Junior with much willing to have my primary experience in project development.
+#### I'm Developer Junior with much willing to have my primary experience in project development.
 
-### Have skills to create a new project , with my skills in Python, Javascript, SQL, HTML and CSS. I can help you to grow
+#### Have skills to create a new project , with my skills in Python, Javascript, SQL, HTML and CSS. I can help you to grow
 
 
 
